@@ -1,4 +1,4 @@
-# Math Challenge Game: Fun and Educational Web App 🎮✏️
+# Math Challenge Game: Fun and Educational Web App Using Cursor And AI 🎮✏️
 
 ### Description of the Math Challenge Game 
 - 15-Second Challenge: Users have only 15 seconds to solve as many math questions as possible.
